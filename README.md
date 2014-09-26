@@ -15,7 +15,7 @@ safari
 rekonq
 google chrome
 
-
+![](http://s7.directupload.net/images/131219/5zrsum9y.png)
 das script hab ich speziell fuer ddos angriffe gebastelt, allerdings nutz ichs imo fuer ganz andere dinge XD
 der eigentliche sinn des scripts war es heraus zu bekommen, ob man mit einem schwebenden botnet auch mit
 halbwegs normalen besucherzahlen etwas anfangen kann. das ergebenis war das ich mir ein botnet mit ~1k ip's
